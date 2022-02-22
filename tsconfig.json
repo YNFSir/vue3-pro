@@ -18,7 +18,8 @@
       "./types"
     ],
     "types": [
-      "node"
+      "node",
+      "element-plus/global"
     ],
     "paths": {
       "@/*": [

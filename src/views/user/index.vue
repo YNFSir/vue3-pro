@@ -11,7 +11,7 @@ const { isFocus } = storeToRefs(user);
     <!-- 系统信息 -->
     <div class="system-info">
       <img alt="" class="system-logo" src="../../images/login/apple.svg" />
-      <h3 class="system-name">Apple OA System</h3>
+      <h3 class="system-name">Vue3 Pro</h3>
     </div>
 
     <!-- 中间主体 -->

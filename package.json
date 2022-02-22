@@ -1,5 +1,5 @@
 {
-  "name": "oa-system",
+  "name": "vue3-pro",
   "private": true,
   "version": "0.0.0",
   "scripts": {
@@ -8,6 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "element-plus": "^2.0.2",
     "pinia": "^2.0.11",
     "vue": "^3.2.25",
     "vue-router": "^4.0.12"
