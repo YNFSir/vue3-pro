@@ -1,7 +1,4 @@
 <script lang="ts" setup>
-import { Ref, ref } from 'vue';
-
-const count: Ref<number> = ref(0);
 </script>
 
 <template>
@@ -17,7 +14,6 @@ const count: Ref<number> = ref(0);
 
     <!-- footer -->
     <el-footer></el-footer>
-
   </el-container>
 </template>
 
