@@ -1,11 +1,11 @@
 <script lang="ts" setup>
-</script>
+import LayoutHeader from './components/LayoutHeader.vue';</script>
 
 <template>
   <!-- layout 布局 -->
   <el-container class="layout">
     <!-- header -->
-    <el-header></el-header>
+    <layout-header />
 
     <!-- main -->
     <el-main>
